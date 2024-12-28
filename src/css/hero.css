@@ -7,6 +7,18 @@
 .hero-title {
     font-size: 50px;
     color: brown;
+    margin-bottom: 20px;
 }
 
-.hero-btn {}
+.hero-btn {
+    background-color: aquamarine;
+    margin-bottom: 18px;
+    border: none;
+    min-width: 140px;
+    height: 80px;
+    font-size: 20px;
+}
+.hero-text {
+    font-size: 18px;
+    color: blueviolet;
+}
