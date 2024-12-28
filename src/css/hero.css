@@ -9,4 +9,12 @@
     color: brown;
 }
 
-.hero-btn {}
+.hero-btn {
+    background-color: aquamarine;
+    margin-bottom: 18px;
+    
+}
+.hero-text {
+    font-size: 18px;
+    color: blueviolet;
+}
