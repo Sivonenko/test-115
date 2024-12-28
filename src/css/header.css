@@ -42,3 +42,8 @@
 .nav-link.active::after {
   background: #747bff;
 }
+
+.header-head {
+  background-color: black;
+  color: aliceblue;
+}
